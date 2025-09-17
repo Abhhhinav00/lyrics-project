@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color: orange;
+    font-family:'fascinate inline', system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h5{
+    color: yellow;
+}
+
+#btn1{
+    margin-right:15px;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: 3cm;
+    border-radius: 40px;
+}
+#btn2{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: non;
+    border-radius: 40px;
+}
+pre{
+    color: white;
+}
+header{
+    h1{
+        text-shadow: 2px 2px ;
+    }
+}
+#box{
+    margin-left: 100px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: yellow;
+    width: 135px;
+    height: px;  
+}
